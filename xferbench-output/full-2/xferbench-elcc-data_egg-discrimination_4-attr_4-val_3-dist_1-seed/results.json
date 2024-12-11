@@ -1,0 +1,30 @@
+{
+  "by_target": {
+    "ur": 5.123300075531006,
+    "kk": 6.148783206939697,
+    "ro": 5.749421119689941,
+    "id": 6.191821575164795,
+    "he": 6.577282905578613,
+    "da": 5.923370361328125,
+    "fa": 5.362889766693115,
+    "fi": 6.481461524963379,
+    "ja": 6.309466361999512,
+    "eu": 6.796733856201172
+  },
+  "score": 6.066453075408935,
+  "analysis": {
+    "Token Count": 110000,
+    "Line Count": 10000,
+    "Tokens per Line": 11.0,
+    "Tokens per Line SD": 0.0,
+    "Unique Tokens": 10,
+    "Unique Lines": 220,
+    "1-gram Entropy": 2.4946986365749027,
+    "1-gram Normalized Entropy": 0.7509791197510828,
+    "2-gram Entropy": 3.55027839976768,
+    "2-gram Conditional Entropy": 1.0555797631927772,
+    "Entropy per Line": 27.441685002323926,
+    "EoS Token Present": true,
+    "EoS Padding": true
+  }
+}
